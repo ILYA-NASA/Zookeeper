@@ -29,6 +29,10 @@
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/Max values of integer types" />
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/The size of Long" />
             <option value="$PROJECT_DIR$/Topics/The classification of basic types/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Converting to Byte" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Simple converter" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Type conversion/Where is the type overflow possible" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declarations" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring a mutable variable" />
