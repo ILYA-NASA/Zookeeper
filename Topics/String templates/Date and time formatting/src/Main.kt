@@ -5,4 +5,8 @@ fun main() {
     val (d, e, f) = readln().split(' ')
 
     print("$a:$b:$c $d/$e/$f")
+
+//    val time = readLine()!!.replace(" ", ":")
+//    val date = readLine()!!.replace(" ", "/")
+//    println("$time $date")
 }
