@@ -5,6 +5,8 @@ Pay attention to the following folders:
 2. [Project of this track ](https://github.com/ILYA-NASA/Zookeeper/tree/master/Zookeeper).    
 
 
-Below I will show you a screenshot with a description of this project.
+Below is a screenshot describing what I did and what I learned on this project 
 
-![image](https://user-images.githubusercontent.com/99810114/207583021-056f2731-db78-497b-8d5e-f64a96cc1c30.png)
+![image](https://user-images.githubusercontent.com/99810114/211804109-470453f9-df67-4ac5-8247-800f7f5845e9.png)
+
+The project has been successfully completed!
